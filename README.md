@@ -1,4 +1,4 @@
-#Basix Quiz Game
+
 Basic Quiz Game is a project created by using Python programming.
 Key Features-
 Questions and Options: This quiz contains at least three questions. Each question should have multiple-choice options.
